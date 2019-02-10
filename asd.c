@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
-#include <pthread.h>
 
 #define ORIGINAL_FILE_NAME "test.txt"
 #define ALTERNATIVE_FILE_NAME "test2.txt"

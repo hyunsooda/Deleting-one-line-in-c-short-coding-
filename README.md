@@ -56,7 +56,7 @@ Also this is simliar to Mark Sweep Algorithm(Garbage Collector)
 ```
 Run : gcc && ./a.out [string]
 ```
-
+![0](https://user-images.githubusercontent.com/12508269/52531921-25744d00-2d60-11e9-9691-31d69b26172c.png)
 ![1-1](https://user-images.githubusercontent.com/12508269/52531840-31134400-2d5f-11e9-9071-a9a56dc7bbfb.png)
 ![1-2](https://user-images.githubusercontent.com/12508269/52531873-ae3eb900-2d5f-11e9-9139-2a5fe70518b4.png)
 ![2-1](https://user-images.githubusercontent.com/12508269/52531874-ae3eb900-2d5f-11e9-9bad-6baa6910f53c.png)

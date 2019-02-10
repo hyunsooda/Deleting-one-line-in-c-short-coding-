@@ -66,4 +66,4 @@ Run : gcc && ./a.out [string]
 # Conclusion
 this is small sample code about delete something what we want.
 
-About physical system, there is no real delete operation so many disk and logical software were built with deletion marker to operete delteion.
+In terms of physical system, there is no real delete operation so many disk and logical software were built with deletion marker to operete delteion.

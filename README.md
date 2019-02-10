@@ -65,6 +65,5 @@ Run : gcc && ./a.out [string]
 
 # Conclusion
 this is small sample code about delete something what we want.
-No important sequence if we extend to key-value store so in this program there is no order between data
 
 About physical system, there is no real delete operation so many disk and logical software were built with deletion marker to operete delteion.

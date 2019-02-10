@@ -36,5 +36,18 @@ if solve this problem and can proceed with this way, we can reduce amount of pro
 Maybe, I think that database venders have implemented inserting and deleting the data with second way or awesome another way to reduce amount of processing.
 
 # After applying deletion marker
+My major is computer science but I totally forgot disk's mechanism...
+Before thinking woenderful solution for this problem, I have read some database article and there was deletion marker!!
+I have studied database(both RDBMS and Nosql) but... anyway, I have solved deleting oneline using deletion marker and implemented by C lang.
+
+### there are two things we have to consider.
+<ul>
+  <li>1. When perform clean marked space ?  </li>
+  <li>2. Other operations are wating during operation of cleaning ? </li>
+</ul>
+
+About answer of first stuff, I let process clean marked space when deletion marker is 5
+About answer of second stuff, Yes. this question is relavant with first question. if perform clean when deletin marker is very bigger, wating time will be long but in case of lower, wating time will be short. 
+Also this is simliar to Mark Sweep Algorithm(Garbage Collector)
 
 

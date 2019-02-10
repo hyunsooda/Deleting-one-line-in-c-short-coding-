@@ -62,3 +62,9 @@ Run : gcc && ./a.out [string]
 ![2-1](https://user-images.githubusercontent.com/12508269/52531874-ae3eb900-2d5f-11e9-9bad-6baa6910f53c.png)
 ![2-2](https://user-images.githubusercontent.com/12508269/52531876-ae3eb900-2d5f-11e9-95e4-3ef3649057a4.png)
 
+
+# Conclusion
+this is small sample code about delete something what we want.
+No important sequence if we extend to key-value store so in this program there is no order between data
+
+About physical system, there is no real delete operation so many disk and logical software were built with deletion marker to operete delteion.

@@ -1,7 +1,7 @@
 # Deleting-one-line-in-c-short-coding-
 Deleting one line in c(short coding)
 
-
+# Before applying deletion marker
 There are two ways to implement deleting one line.
 There are two goto statement which is implemented two ways each other.
 
@@ -34,4 +34,7 @@ this is not expected one. why this happen? because length of johndoe is 7 and al
 if solve this problem and can proceed with this way, we can reduce amount of processing time but it is also dependent on position of target line.
 
 Maybe, I think that database venders have implemented inserting and deleting the data with second way or awesome another way to reduce amount of processing.
+
+# After applying deletion marker
+
 

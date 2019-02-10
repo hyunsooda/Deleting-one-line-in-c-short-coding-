@@ -50,6 +50,11 @@ About answer of first stuff, I let process clean marked space when deletion mark
 About answer of second stuff, Yes. this question is relavant with first question. if perform clean when deletin marker is very bigger, wating time will be long but in case of lower, wating time will be short. 
 Also this is simliar to Mark Sweep Algorithm(Garbage Collector)
 
+```
+Run : gcc && ./a.out [string]
+```
+
+# Result
 
 ![1-1](https://user-images.githubusercontent.com/12508269/52531840-31134400-2d5f-11e9-9071-a9a56dc7bbfb.png)
 ![1-2](https://user-images.githubusercontent.com/12508269/52531873-ae3eb900-2d5f-11e9-9139-2a5fe70518b4.png)
